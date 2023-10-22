@@ -1,1 +1,6 @@
-# CS255-
+# CS255-ReadME
+DriverPass is a proposal program that is a solution for tracking of training students’ progress for their local DMV driver’s test. Driver Pass will also provide online training with practice tests, as well as on-the-road training. Customers can create appointments for driver lessons. This will be able to schedule track DriverPass instructor driver, time, and car.
+I believe collecting system requirements and understanding what the cusotomer was wanting is something I did particullary well.
+The Diagrams is something I struggled with understanding or planning out. I believe revising my diagrams, would allow better understanding for customers or colleagues. 
+With the DriverPass Interview Transcript, I made sure that all major customer requirements were noted and was listed in the business requirements document.
+I believe when interviewing with a potential customer, it is important to ask questions to them to clarify exact requirements or any confusion. After completing the system requirment document and uml diagrams, it should be sent to the customer for initial review. After accepting the system requirements it should be proposed to all stake holders to begin implementation.
